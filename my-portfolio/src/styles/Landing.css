@@ -4,15 +4,19 @@
 }
 
 .divHoldingIntro{
-    width: fit-content;
+    width: 40vw;
     position: relative;
     display: flex;
     margin: 0  auto;
+    flex-wrap: wrap;
 
 }
 
 .introContainer{
     margin-top: 25vh;
+    display: flex;
+    text-align: left;
+    align-items: center;
     /* width: fit-content;
     height: 60em; 
     display: flex;
