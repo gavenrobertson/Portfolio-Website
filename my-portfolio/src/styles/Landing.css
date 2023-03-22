@@ -1,0 +1,34 @@
+.sectionContainer{
+    height: 90vh;
+    width: 100%;
+}
+
+.divHoldingIntro{
+    width: fit-content;
+    position: relative;
+    display: flex;
+    margin: 0  auto;
+
+}
+
+.introContainer{
+    margin-top: 25vh;
+    /* width: fit-content;
+    height: 60em; 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    flex-direction: column; */
+    
+}
+
+.introH1{
+    font-size: 72px;
+}
+
+.introP{
+    font-size: 34px;
+}
+

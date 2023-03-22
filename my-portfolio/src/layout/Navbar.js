@@ -4,9 +4,9 @@ import '../styles/Navbar.css'
 
 function Navbar() {
     return(
-        <div className='divNavContainer'>
+        
             <nav className='navBar'>
-                <p className='websiteLogo'>GR</p>
+                <p className='websiteLogo'>GavenRobertson.dev</p>
                 <ul className='navBarList'>
                     <li> <a>Contact</a> </li>
                     <li> <a>Projects</a> </li>
@@ -14,7 +14,7 @@ function Navbar() {
                     <li> <a>Home</a> </li>
                 </ul>
             </nav>
-        </div>
+        
     )
 }
 
